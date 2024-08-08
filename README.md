@@ -1,10 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Handiyana Nurul Hakim**.<br>
+Perkenalkan nama saya **Handiyana Nurul Hakim**<br>
 
-Saya seorang **Web Developer** dan seorang **Mahasiswa IT**.<br>
+Saya seorang **Web Developer** dan seorang **Mahasiswa IT**<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/handi-law/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/handi-law/)ku ya
 
 ### Github Statistic
 <p align="left">
