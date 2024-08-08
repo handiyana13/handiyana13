@@ -1,4 +1,10 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Handiyana Nurul Hakim**.<br>
+
+Saya seorang **Web Developer** dan seorang **Mahasiswa IT**.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/handi-law/)ku ya.
 
 <!--
 **handiyana13/handiyana13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
